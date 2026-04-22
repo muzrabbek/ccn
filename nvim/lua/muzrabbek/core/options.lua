@@ -2,7 +2,6 @@ vim.g.loaded_netrw = 1
 vim.g.loaded_netrwPlugin = 1
 vim.g.tmux_navigator_disable_netrw_workaround = 1
 
-vim.opt.relativenumber = true
 vim.opt.number = true
 
 vim.opt.tabstop = 4
